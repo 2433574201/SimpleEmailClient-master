@@ -38,7 +38,7 @@ public class LoginDialog extends JDialog {
      * Create the dialog.
      */
     public LoginDialog() {
-        setTitle("登录");
+        setTitle("Login");
         setBounds(150, 150, 500, 300);
         getContentPane().setLayout(new BorderLayout());
         contentPanel.setBorder(new EmptyBorder(5, 5, 5, 5));
